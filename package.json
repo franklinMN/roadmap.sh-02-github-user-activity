@@ -1,0 +1,27 @@
+{
+  "name": "roadmap.sh-01-github-user-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklinMN/roadmap.sh-01-github-user-activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklinMN/roadmap.sh-01-github-user-activity/issues"
+  },
+  "homepage": "https://github.com/franklinMN/roadmap.sh-01-github-user-activity#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "commander": "^14.0.0"
+  },
+  "bin": {
+    "github-activity": "./index.js"
+  },
+  "type": "module"
+}
